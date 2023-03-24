@@ -25,4 +25,4 @@ Please refer to the INSTALL file. It describes all steps necessary to install At
 
 ## Software
 
-This project combines [atariserver](www.horus.com/~hias/atari/) by Hias with embedded web server (Mongoose) to create virtual floppy drive for Atari. To select floppy images users can use their smartphone or tablet.
+This project combines [atariserver](https://www.horus.com/~hias/atari/) by Hias with embedded web server (Mongoose) to create virtual floppy drive for Atari. To select floppy images users can use their smartphone or tablet.
